@@ -1,5 +1,5 @@
 # laravel-stripe-help
-help-url
+Laravel-stripe Payment - help-url
 
 
 https://www.youtube.com/watch?v=bjDuyIzraKk : laravel stripe payment
